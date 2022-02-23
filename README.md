@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raymond
 - 👀 I’m interested in learning and exploring new things more on cloud technology.
-- 🌱 I’m currently learning fundamentals basics of HTML,CSS and Javascript.
+- 🌱 I’m currently learning fundamental basics of HTML5,CSS and Javascript.
 - 💞️ I’m looking to collaborate on openSource projects and anything fun that will keep me motivated to always work on it.I prefer ReactJS applications).
 - 📫 How to reach me whatsapp(079 730 3679).
 
